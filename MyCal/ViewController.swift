@@ -95,29 +95,5 @@ class ViewController: UIViewController {
         rightVal = ""
         resultLbl.text = "0"
     }
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
 
